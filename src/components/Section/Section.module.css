@@ -1,0 +1,12 @@
+.section {
+  width: 400px;
+  border: 2px solid rgb(72, 72, 126);
+  border-radius: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h2 {
+  margin: 0;
+  text-align: center;
+}

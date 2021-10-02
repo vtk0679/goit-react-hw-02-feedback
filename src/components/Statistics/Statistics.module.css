@@ -1,0 +1,30 @@
+.total {
+  margin-left: 40px;
+  font-size: 20px;
+  color: blue;
+  font-weight: 700;
+}
+.good {
+  font-weight: 500;
+  margin-left: 50px;
+  font-size: 20px;
+  color: green;
+}
+.neutral {
+  font-weight: 500;
+  margin-left: 20px;
+  font-size: 20px;
+  color: orange;
+}
+.bad {
+  margin-left: 20px;
+  margin-right: 60px;
+  font-size: 20px;
+  color: red;
+}
+.positivePercentage {
+  margin-left: 20px;
+  font-size: 20px;
+  color: cornflowerblue;
+  font-weight: 700;
+}
