@@ -17,8 +17,7 @@ class App extends Component {
     return str[0].toUpperCase() + str.slice(1);
   }
 
-  onLeaveFeedback = (e) => {
-    const value = e.target.value;
+  onLeaveFeedback = (value) => {
     this.setState({ [value]: this.state[value] + 1 });
   };
 
